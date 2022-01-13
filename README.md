@@ -15,7 +15,8 @@ Some project READMEs were updated to better explain the project.
 Create a basic Portable Executable (PE) Analysis tool in order to determine if a file or a directory of files is malicous, and create a report of said files.
 
 ### Notes
-Programmed in python
+Programmed in python  
+1 src file
 
 ## Project02 | Save Data & Attack Save
 
@@ -23,4 +24,7 @@ Programmed in python
 Create and design a system that saves data in a secure fashion, and then attack your own system and try to modify or steal said data based on the design.
 
 ### Notes
-Programmed in C++
+Programmed in C++  
+5 src files  
+1 document file  
+1 save file (example)
