@@ -1,6 +1,6 @@
 # Class: BinaryAnalysis Projects
 
-## Class
+## Description
 
 Explore the security of files in depth, focusing on binary/assembly analysis.
 
