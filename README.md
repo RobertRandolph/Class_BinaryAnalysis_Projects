@@ -6,7 +6,7 @@ Explore the security of files in depth, focusing on binary/assembly analysis.
 
 ### Notes
 
-The projects were uploaded to my personal github from my schools, and some of the files were removed since they weren't necessary to showcase my code, and I didn't want to somehow cause problems for my professors regarding the files they provided (i.e. project requirements and pts).
+The projects were uploaded to my personal github from my school, and some of the files were removed since they weren't necessary to showcase my code, and I didn't want to somehow cause problems for my professors regarding the files they provided (i.e. project requirements and pts).
 
 The goal of the project will be stated below, and any files I created and worked on will stay.
 
